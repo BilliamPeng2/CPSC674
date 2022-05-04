@@ -24,6 +24,6 @@ To edit the range tested for the opponent, changes must be made in the test.py f
 To edit the amount of rounds simulated in fictitious play to get the game theory optimal strategy, change the rounds number in the gto function in the test.py file
 
 ## Installation
-The exploitative poker agent has no pre-requirements before running, however the pbots_calc library does. Follow the instructions in the pbot_calc respository linked above
+The exploitative poker agent has no pre-requirements before running, however the pbots_calc library does. Follow the instructions in the pbot_calc respository linked above or in the ReadMe in the pbots_calc folder
 
 
