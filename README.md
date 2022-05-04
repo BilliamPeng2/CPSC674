@@ -1,4 +1,4 @@
-# CPSC674
+# CPSC674 Exploitative Jam/Fold Poker Agent
 William Peng's Project for CPSC 674: Advanced Computational Intelligence for Games
 
 ## Code in Respository
