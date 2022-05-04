@@ -19,7 +19,7 @@ python3 test.py pot stack rounds
 
 Pot is a number for the amount of bb in the middle. Stack is a number for the amount of bb each player has in their stack. Rounds is a number for the number of rounds of fictitious play.
 
-To edit the range tested for the opponent, changes must be made in the test.py file
+To edit the ranges tested for the opponent, changes must be made in the test.py file
 
 To edit the amount of rounds simulated in fictitious play to get the game theory optimal strategy, change the rounds number in the gto function in the test.py file
 
